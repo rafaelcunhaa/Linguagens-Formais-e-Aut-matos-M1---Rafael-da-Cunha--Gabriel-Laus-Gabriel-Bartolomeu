@@ -208,31 +208,8 @@ public class Main {
         matriz[get_string_ref(estados, "q2")][get_char_ref(alfabeto, 'Z')] = get_string_ref(estados, "q3");
         
         //transições de q3
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'A')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'B')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'C')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'D')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'E')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'F')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'G')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'H')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'I')] = get_string_ref(estados, "q4");
         matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'J')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'K')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'L')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'M')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'N')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'O')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'P')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'Q')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'R')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'S')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'T')] = get_string_ref(estados, "q4");
         matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'U')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'V')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'W')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'X')] = get_string_ref(estados, "q4");
-        matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'Y')] = get_string_ref(estados, "q4");
         matriz[get_string_ref(estados, "q3")][get_char_ref(alfabeto, 'Z')] = get_string_ref(estados, "q4");
         
         //transições de q4
